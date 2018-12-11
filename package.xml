@@ -1,10 +1,10 @@
 <package format="2">
   <name>qt_gui_icons</name>
   <version>1.0.0</version>
-  <description>qt_gui_icons provides the public domain Tango icons for Windows (http://tango.freedesktop.org/Tango_Icon_Library)</description>
+  <description>qt_gui_icons provides the public domain Tango icons for Windows (<a href="http://tango.freedesktop.org/Tango_Icon_Library">Tango Icon Library</a>) from the <a href="http://tango.freedesktop.org/Tango_Desktop_Project">Tango Desktop Project</a></description>
   <maintainer email="dthomas@osrfoundation.org">Dirk Thomas</maintainer>
 
-  <license>BSD</license>
+  <license>Public Domain</license>
 
   <url type="website">http://ros.org/wiki/qt_gui_icons</url>
   <url type="repository">https://github.com/ros-visualization/qt_gui_icons</url>

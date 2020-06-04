@@ -1,8 +1,8 @@
 <package format="2">
   <name>tango_icons_vendor</name>
-  <version>1.0.0</version>
-  <description>tango_icons_vendor provides the public domain Tango icons for Windows (<a href="http://tango.freedesktop.org/Tango_Icon_Library">Tango Icon Library</a>) from the <a href="http://tango.freedesktop.org/Tango_Desktop_Project">Tango Desktop Project</a></description>
-  <maintainer email="dthomas@osrfoundation.org">Dirk Thomas</maintainer>
+  <version>0.0.0</version>
+  <description>tango_icons_vendor provides the public domain Tango icons for non-linux systems (<a href="http://tango.freedesktop.org/Tango_Icon_Library">Tango Icon Library</a>) from the <a href="http://tango.freedesktop.org/Tango_Desktop_Project">Tango Desktop Project</a></description>
+  <maintainer email="alejandro@osrfoundation.org">Alejandro Hernandez</maintainer>
 
   <license>Public Domain</license>
 

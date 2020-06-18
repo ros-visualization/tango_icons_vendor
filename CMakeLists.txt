@@ -4,8 +4,11 @@ project(tango_icons_vendor)
 find_package(ament_cmake REQUIRED)
 
 option(INSTALL_TANGO_ICONS "Install Tango icons" OFF)
+if(WIN32 OR APPLE)
+  set(INSTALL_TANGO_ICONS ON)
+endif()
 
-if (WIN32 OR APPLE OR INSTALL_TANGO_ICONS)
+if (INSTALL_TANGO_ICONS)
   install(DIRECTORY resource
     DESTINATION share/${PROJECT_NAME})
 endif()

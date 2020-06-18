@@ -10,7 +10,7 @@ else()
 endif()
 option(INSTALL_TANGO_ICONS "Install Tango icons" ${INSTALL_TANGO_ICONS_DEFAULT_VALUE})
 
-if (INSTALL_TANGO_ICONS)
+if(INSTALL_TANGO_ICONS)
   install(DIRECTORY resource
     DESTINATION share/${PROJECT_NAME})
 endif()

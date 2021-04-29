@@ -2,8 +2,8 @@
 Changelog for package tango_icons_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.0 (2021-04-29)
+------------------
 * Add exec_depend on tango-icon-theme system package (`#8 <https://github.com/ros-visualization/tango_icons_vendor/issues/8>`_)
 * Contributors: Scott K Logan
 

@@ -2,6 +2,9 @@
 Changelog for package tango_icons_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.0 (2022-05-10)
+------------------
+
 0.1.1 (2022-04-06)
 ------------------
 * Update maintainers to Audrow Nash (`#9 <https://github.com/ros-visualization/tango_icons_vendor/issues/9>`_)

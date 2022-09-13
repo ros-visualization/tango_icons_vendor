@@ -2,6 +2,11 @@
 Changelog for package tango_icons_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Mirror rolling to master
+* Contributors: Audrow Nash
+
 0.2.0 (2022-05-10)
 ------------------
 

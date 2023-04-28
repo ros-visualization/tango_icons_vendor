@@ -1,6 +1,6 @@
 <package format="2">
   <name>tango_icons_vendor</name>
-  <version>0.2.2</version>
+  <version>0.3.0</version>
   <description>tango_icons_vendor provides the public domain Tango icons for non-linux systems (<a href="http://tango-project.org/Tango_Icon_Library/">Tango Icon Library</a>) from the <a href="http://tango-project.org/Tango_Desktop_Project/">Tango Desktop Project</a></description>
 
   <maintainer email="scott@openrobotics.org">Scott K Logan</maintainer>

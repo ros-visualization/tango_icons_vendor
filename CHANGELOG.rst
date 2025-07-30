@@ -2,6 +2,11 @@
 Changelog for package tango_icons_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* fix cmake deprecation (`#15 <https://github.com/ros-visualization/tango_icons_vendor/issues/15>`_)
+* Contributors: mosfet80
+
 0.5.0 (2025-04-28)
 ------------------
 * Remove the mirror-rolling-to-master workflow (`#12 <https://github.com/ros-visualization/tango_icons_vendor/issues/12>`_)

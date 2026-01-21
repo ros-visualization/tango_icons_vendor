@@ -2,6 +2,17 @@
 Changelog for package tango_icons_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Remove CODEOWNERS (`#11 <https://github.com/ros-visualization/tango_icons_vendor/issues/11>`_) (`#13 <https://github.com/ros-visualization/tango_icons_vendor/issues/13>`_)
+  (cherry picked from commit 04b176b63b4ffaabf7a3d84dfcbe70fd90fd5c58)
+  Co-authored-by: Alejandro Hernández Cordero <ahcorde@gmail.com>
+* Remove the mirror-rolling-to-master workflow. (`#12 <https://github.com/ros-visualization/tango_icons_vendor/issues/12>`_) (`#14 <https://github.com/ros-visualization/tango_icons_vendor/issues/14>`_)
+  We no longer need to keep that compatibility, so drop it.
+  (cherry picked from commit 94e4d120f14fdc74922152b16d48391958d9c002)
+  Co-authored-by: Chris Lalancette <clalancette@gmail.com>
+* Contributors: mergify[bot]
+
 0.3.0 (2023-04-28)
 ------------------
 

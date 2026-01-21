@@ -2,8 +2,8 @@
 Changelog for package tango_icons_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.3.1 (2026-01-21)
+------------------
 * Remove CODEOWNERS (`#11 <https://github.com/ros-visualization/tango_icons_vendor/issues/11>`_) (`#13 <https://github.com/ros-visualization/tango_icons_vendor/issues/13>`_)
   (cherry picked from commit 04b176b63b4ffaabf7a3d84dfcbe70fd90fd5c58)
   Co-authored-by: Alejandro Hernández Cordero <ahcorde@gmail.com>

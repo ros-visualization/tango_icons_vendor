@@ -2,6 +2,9 @@
 Changelog for package tango_icons_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.0 (2026-05-06)
+------------------
+
 0.5.1 (2025-07-30)
 ------------------
 * fix cmake deprecation (`#15 <https://github.com/ros-visualization/tango_icons_vendor/issues/15>`_)

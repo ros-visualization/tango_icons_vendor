@@ -5,7 +5,7 @@
 
   <maintainer email="scott@openrobotics.org">Scott K Logan</maintainer>
 
-  <license>Apache License 2.0</license>  <!-- the contents of this package are Apache 2.0 -->
+  <license>Apache-2.0</license>  <!-- the contents of this package are Apache 2.0 -->
   <license>Public Domain</license>  <!-- Tango icons is Public Domain -->
 
   <url type="website">http://ros.org/wiki/qt_gui_icons</url>
